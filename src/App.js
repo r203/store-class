@@ -12,8 +12,6 @@ function App() {
     currency: '£'
   }
 
-  const now = new Date(2017, 2, 8);
-
   return (
     <div className="container">
       <div className="background-element">
